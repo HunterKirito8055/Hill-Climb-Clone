@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7751f7f40b79e524581a665063b8c7f9
+timeCreated: 1505854354
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tokyo 2097
+  fontNames:
+  - Tokyo 2097
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
